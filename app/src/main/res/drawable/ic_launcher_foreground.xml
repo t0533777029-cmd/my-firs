@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- soft gradient circle behind the drop for depth -->
+    <path
+        android:pathData="M54,18 m-30,0 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0"
+        android:fillColor="#00000000" />
+
+    <!-- droplet -->
+    <path
+        android:pathData="M54,20C54,20 27,55 27,72C27,86.36 39.19,98 54,98C68.81,98 81,86.36 81,72C81,55 54,20 54,20Z"
+        android:fillColor="#7ea3ff" />
+    <path
+        android:pathData="M54,28C54,28 33,57 33,72C33,83.05 42.4,92 54,92C65.6,92 75,83.05 75,72C75,57 54,28 54,28Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M45,62 C43,68 43,75 48,80 C44,76 43,68 45,62 Z"
+        android:fillColor="#9fd8ff"
+        android:fillAlpha="0.7" />
+</vector>

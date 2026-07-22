@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пропорит</string>
+    <string name="notif_channel_name">Напоминания о замене</string>
+    <string name="notif_channel_desc">Уведомления о том, что пора поменять пропорит</string>
+    <string name="notif_due_title">Пора поменять пропорит 💧</string>
+    <string name="notif_due_text">Прошло %1$d дн. с последней замены</string>
+    <string name="notif_overdue_title">Пропорит просрочен ⏰</string>
+    <string name="notif_overdue_text">Следующее напоминание через %1$d ч.</string>
+    <string name="notif_action_done">Поменял</string>
+</resources>
